@@ -1,0 +1,22 @@
+{
+  "name": "simple-moleculer-starter",
+  "author": "Fedor Shubin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^5.15.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "2.14.0"
+  },
+  "dependencies": {
+    "args": "^5.0.1",
+    "glob": "^7.1.3"
+  },
+  "peerDependencies": {
+    "moleculer": "^0.13.7"
+  },
+  "license": "MIT"
+}

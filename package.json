@@ -1,7 +1,7 @@
 {
   "name": "simple-moleculer-starter",
   "author": "Fedor Shubin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "scripts": {
     "lint": "eslint ."

@@ -13,6 +13,7 @@ module.exports = {
     'no-shadow': 'warn',
     'no-underscore-dangle': 0,
     'object-curly-newline': 0,
+    strict: 0,
   },
   env: {
     es6: true,
